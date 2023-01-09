@@ -1,7 +1,7 @@
 # Grow
 
-use schematic to hook up lights
-	don't use breadboard. Need higher wires
+	use schematic to hook up lights
+		don't use breadboard. Need higher  wires
 	For use with 2 meters of https://shop.pimoroni.com/products/flexible-rgbw-led-strip-neopixel-ws2812-sk6812-compatible?variant=30260032733267
 	use 5V 15A (at least) 75W Power Supply
 
