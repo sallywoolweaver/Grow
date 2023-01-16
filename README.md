@@ -11,6 +11,7 @@ run growlights.py on raspberry pi. Adjust times as needed
 
 add growlights.py to run on boot
 
+to edit pump/alarm file etc>default>grow
 
 Final product -
 
